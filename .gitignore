@@ -1,3 +1,5 @@
 *.json
+.DS_Store
+.ipynb_checkpoints/
 input_data/
 preprocess_data/
